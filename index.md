@@ -1,91 +1,107 @@
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nicol Rainy Brown 
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+**Contact**
 
+* Email: nicol.rainy.brown@gmail.com 
+* Phone: +447747412890
+* LinkedIn: https://uk.linkedin.com/in/nicol-rainy-brown-2bba6559 
 
-## Currently
+*** 
+## Education  
 
-Standing on the shoulders of giants
+* **Universit\`a Bocconi** 
+   * MSc in Economics
+   * Aug 2014 - Apr 2017 | Milan, Italy
+   * GPA: 27/30
+ 
+* **University of Manchester**
+   * BEconSc in Economics
+   * Sep 2010 - Jun 2013 | Manchester, UK
+   * First Class Honours
 
-### Specialized in
+* **MIT**
+   * MITx MicroMasters in Statistics and Data Science
+   * Sep 2018 - Oct 2019 | Online
+   * GPA: 89%
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## Coursework
 
+* **Doctoral**
+    * Real Analysis
+    * Information in Markets and Organisations
 
-### Research interests
+* **Graduate**
+    * Game Theory
+    * Introduction to Computer Science
+    * Bayesian Statistics
+    * Time Series Analysis
+    * Advanced Statistics
+    * Advanced Mathematics
+    * Machine Learning
+    * Econometrics
+    * Microeconometrics
+    * International Economics
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+* **Undergraduate**
+    * Mathematical Economics
+    * Mathematical Finance
+    * Operational Research
 
+## Skills
 
-## Education
+* **Programming/Software** 
+    * 5+ years of experience: Python, pandas, NumPy, Matplotlib, SQL, Excel
+    * 2-5 years of experience: PowerBI, Eikon, scikit-learn, Azure Devops, Git
+    * Proficient: R, LaTeX, Eviews, Stata, SPSS
 
-`1654-1660`
-__The King's School, Grantham.__
+* **Languages**
+    * Native: English
+    * Fluent: Italian (B2), Spanish (B1)
+    * Basic: French, German 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Awards/Achievements
 
-- Sizar
+* **2014-2016:** Bocconi Merit Award (Full merit-based scholarship, renewed by maintaining a GPA over 90%)
+* **2016:** Italian National Championship (National league champion as part of the Bocconi Lacrosse Team)
+* **2013:** Graduate Record Exam (GRE)
+    * 167 quantitative (95th percentile)
+    * 163 verbal (94th percentile) 
 
-`1667 - death`
-__Trinity College, Cambridge__
+*** 
+## Professional Experience
 
-- Fellow
+### Smartest Energy 
+* Trading Developer | Aug 2021 - Present | London, UK
+   * Front office developer on power, gas and carbon markets.
+   * Developed analytical tools for power and gas traders, including plant-level power market modeling, real-time price spread analysis, and machine learning-driven forecasting models.
+   * Built innovative solutions using Python, JavaScript, SQL, web technologies, and PowerBI to enhance trader workflows and decision-making.
+   * Collaborated with risk and valuation teams, providing coding expertise for new valuation curves and streamlining forecast approval processes.
+   * Adapted proactively to evolving APIs (e.g., BM report overhauls) ensuring data integrity and system continuity.
+   * Fostered a collaborative development community by mentoring junior team members and facilitating onboarding processes for new hires.
 
+### Profision Shipping Capital Management
+* Quantitative Analyst | Jul 2019 - Jul 2021 | London, UK  
+   * Buy-side quantitative analyst for fund with specialisation in freight derivatives. I led a project to allocate $25 million in assets within 3 months of starting in this role. 
+   * Responsible for various analytical aspects, including:  
+      * Developing an exotic options pricing library in Python with Asian option pricing and Greek calculation using the Turnbull-Wakeman method.
+      * Combining machine learning with geographical information to monitor and analyse vessel movements with the aim of predicting relative changes in regional freight rates.
+      * Conducting Value at Risk modelling using techniques like Monte-Carlo simulation to generate short and long term projections of financial time series. I visualize and synthesize these results into risk metrics and generate weekly and monthly reports for the portfolio manager and investors.
+   * Wrote algorithms in Python to automate and optimise trade execution and operational tasks. Daily time spent on these tasks was reduced from 1-2 hours to less than 15 minutes.
 
+### Aurora Energy Research
+* Data Analyst | Jan 2018 - Sep 2018 | Oxford, UK
+   * Collection and management of market data and database maintenance for energy consultancy serving government, industrial clients, and investors. I aggregated and analysed large data sets for energy consulting projects, market reports, and modelling. 
+   * Used SQL and Python to maintain and validate a relational database for a client-facing application providing natural gas and electricity data to facilitate investment decisions and asset valuations.
+   * Scraped data with Python from online sources using pandas, requests, and regex packages into an SQL database. This automated the data ingestion as part of the Extract, Transform, Load (ETL) process in order to expand the database.
 
-## Awards
+### Innocenzo Gasparini Institute (IGIER)
+* Research Assistant | May 2015 - Jul 2015 | Milan, Italy
+   * Conducted literature review on experimental methods and causal inference.
 
-`2012`
-President, *Royal Society*, London, UK
+### Acumen Commercial Insights
+* Data Analyst (Contract) | Apr 2014 – May 2014 | London, UK
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+### Miller Insurance Services LLP
+* Actuarial Intern | Sep 2013 – Dec 2013 | London, UK
+   * Worked directly with the head of analytics to provide risk analysis to support reinsurance premium recommendations.
+   * Used Microsoft Excel to process complex and dynamic insurance claims data, cleaning data and generating descriptive reports. 
